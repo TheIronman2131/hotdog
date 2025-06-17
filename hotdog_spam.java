@@ -4,3 +4,5 @@
   System.out.println("footlong mode activated");
   System.out.println("ketchup");
 
+  System.out.println("hotdog");
+
